@@ -99,7 +99,7 @@ The theme styles can be imported manually. To do that, follow these steps:
     "controlStyles[8].styles[0]":"Visibility=Collapsed",
     "controlStyles[9].target":"Taskbar.TaskListLabeledButtonPanel@CommonStates > Rectangle#RunningIndicator",
     "controlStyles[9].styles[0]":"Visibility=Collapsed",
-    "controlStyles[9].styles[1]":"Fill:=<SolidColorBrush Color=\"$primaryColor\" Opacity=\"0.25\"/>",
+    "controlStyles[9].styles[1]":"Fill:=<SolidColorBrush Color=\"$primaryColor\" Opacity=\"0.2\"/>",
     "controlStyles[9].styles[2]":"VerticalAlignment=0",
     "controlStyles[9].styles[3]":"HorizontalAlignment=Stretch",
     "controlStyles[9].styles[4]":"Margin=0,0,-4,0",
