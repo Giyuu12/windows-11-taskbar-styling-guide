@@ -6,7 +6,8 @@
 ![Light](Light.png)
 
 ## Notes
-* This theme is designed to allow flexible resizing using the "Taskbar height and icon size" mod. With a few adjustments, it can also support a vertical taskbar. Additionally, the theme automatically switches colors in sync with Windows' dark and light themes.
+* This theme is designed to allow flexible resizing using the "Taskbar height and icon size" mod. With a few adjustments, it can also support a vertical taskbar.
+* This theme automatically switches colors in sync with Windows' dark and light themes.
 * The search button and search bar are not styled. It is recommended to disable them.
 
 ## Optional Windhawk Mods
@@ -153,7 +154,7 @@ The theme styles can be imported manually. To do that, follow these steps:
     "styleConstants[2]":"primaryColor={ThemeResource TextFillColorPrimary}",
     "styleConstants[3]":"activeColor=#33AAFF",
     "styleConstants[4]":"requestAttentionColor=#FFAA44",
-    "styleConstants[5]":"progressColor=#44DD77",
+    "styleConstants[5]":"progressColor=#44CC66",
     "styleConstants[6]":"progressPausedColor=#FFFF44",
     "styleConstants[7]":"taskbarBackground=<AcrylicBrush TintColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" FallbackColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" TintOpacity=\"0\" TintLuminosityOpacity=\"0.8\" Opacity=\"1\"/>",
     "styleConstants[8]":"taskbarBlurIncreace=0",
