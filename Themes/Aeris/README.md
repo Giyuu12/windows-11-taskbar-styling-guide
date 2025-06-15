@@ -153,7 +153,7 @@ The theme styles can be imported manually. To do that, follow these steps:
     "styleConstants[1]":"themeColorOpacity=0",
     "styleConstants[2]":"primaryColor={ThemeResource TextFillColorPrimary}",
     "styleConstants[3]":"activeColor=#33AAFF",
-    "styleConstants[4]":"requestAttentionColor=##FF7788",
+    "styleConstants[4]":"requestAttentionColor=#FF7788",
     "styleConstants[5]":"progressColor=#44CC66",
     "styleConstants[6]":"progressPausedColor=#FFFF44",
     "styleConstants[7]":"taskbarBackground=<AcrylicBrush TintColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" FallbackColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" TintOpacity=\"0\" TintLuminosityOpacity=\"0.8\" Opacity=\"1\"/>",
